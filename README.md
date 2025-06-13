@@ -1,6 +1,5 @@
 ## Welcome 🌱
 Seeing where my curiosity takes me. Currently focused on embedded systems with STM32. <br>
-A student forever.
 
 ### Languages & Tools I have placed my hands on
 [![](https://skillicons.dev/icons?i=python,cpp,c,html,css,js,sqlite,git,github,bash)](https://skillicons.dev)
