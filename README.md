@@ -1,16 +1,16 @@
-## Hi there 👋
+## Welcome 🌱
+Seeing where my curiosity takes me. Currently focused on embedded systems with STM32. <br>
+A student forever.
 
-<!--
-**yasminserag08/yasminserag08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages & Tools I have placed my hands on
+[![](https://skillicons.dev/icons?i=python,cpp,c,html,css,js,sqlite,git,github,bash)](https://skillicons.dev)
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" style="margin-left: 6px;"/>
+<br>
 
-Here are some ideas to get you started:
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
+![STM32](https://img.shields.io/badge/STM32-Embedded-blue?style=for-the-badge&logo=STMicroelectronics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/yasmin-serag-9b3349369/)
+
